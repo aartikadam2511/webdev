@@ -1,0 +1,19 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "my file",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0",
+    "unique-random": "^2.1.0",
+    "unique-random-array": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
